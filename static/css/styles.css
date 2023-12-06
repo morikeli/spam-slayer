@@ -1,0 +1,16 @@
+#MainMenu {
+    visibility: none;
+}
+#title {
+    font-size: 10px;
+}
+hr {
+    margin-top: 1vh;
+    margin-bottom: 5vh;
+}
+header {
+    visibility: hidden;
+}
+footer {
+    visibility: hidden;
+}
