@@ -6,7 +6,7 @@
 This is a web-based trained machine learning model trained to detect spam or ham emails.
 
 ## User instructions
-To access the website click [here](https://spam-slayer.onrender.com). 
+To access the website click ![here]([https://spam-slayer.onrender.com](https://spam-slayer.streamlit.app/)). 
  - Type an email text in the text area provided
  - Click the `Submit` button to submit the form for analysis
  - A success message will be displayed for ham email or error message (for spam email).
