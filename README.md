@@ -1,15 +1,18 @@
-
-![SpamSlayer](https://github.com/morikeli/spam-slayer/assets/78599959/4aed416d-94b8-404f-af2a-8fdfc6dcfff2)
-
-
 # SpamSlayer
 This is a web-based trained machine learning model trained to detect spam or ham emails.
 
-## User instructions
-To access the website click ![here]([https://spam-slayer.onrender.com](https://spam-slayer.streamlit.app/)). 
+
+
+### Demo
+![SpamSlayer](https://github.com/morikeli/spam-slayer/assets/78599959/4aed416d-94b8-404f-af2a-8fdfc6dcfff2)
+
+
+### User instructions
+To access the website click [here](https://spam-slayer.streamlit.app/). 
  - Type an email text in the text area provided
  - Click the `Submit` button to submit the form for analysis
  - A success message will be displayed for ham email or error message (for spam email).
+
 
 ### Developer instructions
 To run the project offline;
