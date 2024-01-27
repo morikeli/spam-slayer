@@ -1,7 +1,5 @@
 from mails.detect import detect_spam_emails
 import streamlit as st
-import numpy as np
-import pickle
 
 
 def main():
