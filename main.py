@@ -1,4 +1,3 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
 from mails.detect import detect_spam_emails
 import streamlit as st
 import numpy as np
